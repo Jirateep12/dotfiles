@@ -1,0 +1,25 @@
+[core]
+  editor = nvim
+  ignorecase = false
+
+[color]
+  status = auto
+  diff = auto
+  branch = auto
+  interactive = auto
+  grep = auto
+  ui = auto
+
+[alias]
+  d  = diff
+  co = checkout
+  ci = commit
+  cm = commit -m
+  ps = "!git push origin $(git rev-parse --abbrev-ref HEAD)"
+  pl = "!git pull origin $(git rev-parse --abbrev-ref HEAD)"
+  st = status
+  br = branch
+  bm = branch -m
+
+[github]
+  user = jirateep12
