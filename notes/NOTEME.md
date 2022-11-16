@@ -12,6 +12,9 @@
 Result : AltTabSettings = 1
 ```
 
+### # Apex legends settings
+- [Settings](https://drive.google.com/file/d/1KZLuuSibULwxmv3xPJD8qq4Z6P5EsHj_/view?usp=share_link)
+
 ### # Office 365 (Unactivated key)
 
 - [Office365](https://drive.google.com/file/d/1g2EQ7otZdfRm5xzFFiiUkr2X2YZYLktb/view?usp=share_link)
