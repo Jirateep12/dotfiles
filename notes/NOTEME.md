@@ -33,6 +33,9 @@ Result : AltTabSettings = 1
 
 - [Mockup](https://github.com/Jirateep12/dotfiles/raw/master/uploads/mockup.psd)
 
+### # Wallpaper anime for me!
+- [Wallpaper](https://drive.google.com/drive/folders/18hYcPr-6oadDC2RoK0IZBBZAy8givv-Z?usp=sharing)
+
 ### # Plugin & theme (Wordpress)
 
 - [เเจ้งชำระเงิน](https://drive.google.com/file/d/15fwQ0fXeoaETW2-qDqh4iZlG4IypIkvy/view?usp=sharing)
