@@ -29,6 +29,9 @@ Result : AltTabSettings = 1
 - [Photoshop](https://drive.google.com/file/d/1dpN0M_a5baPOsPD5ocsUZ3QQSmyNSQwm/view?usp=sharing)
 - [Premiere Pro](https://drive.google.com/file/d/1E489RfxWNXBn198NV7QuF1iQhB2uJI8d/view?usp=share_link)
 
+### # Vegas pro (No Trojan & No Virus check by virustotal.com)
+- [Vegas pro 18](https://drive.google.com/file/d/1Bc5Mw8yxlH8g4kr5vnhRHTp6Ietaa7J9/view)
+
 ### # Mock up (Psd)
 
 - [Mockup](https://github.com/Jirateep12/dotfiles/raw/master/uploads/mockup.psd)
